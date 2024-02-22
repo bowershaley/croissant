@@ -1,4 +1,10 @@
 body {
   text-align: center;
-  font-size: 14px;
+  font-size: 18px;
+  background-color: bisque;
+  font-family: cursive;
+}
+
+a {
+  color: black;
 }
